@@ -1,0 +1,5 @@
+user,rakib@gmail.com,rakib1234,Rakib
+user,hasan@gmail.com,hasan1234,Hasan
+admin,admin@gmail.com,admin1234,Imran
+manager,ohab@gmail.com,ohab1234,Ohab
+manager,tuhin@gmail.com,tuhin1234,Tuhin
